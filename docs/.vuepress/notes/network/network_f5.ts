@@ -1,20 +1,24 @@
-import { arraySidebar } from "vuepress-theme-hope";
+import { defineNoteConfig } from 'vuepress-theme-plume'
 
-export const network_f5 = arraySidebar([
-  "",
-  "Http头部HOST为空Nginx返回400错误",
-  "f5限制部分源IP访问VS",
-  "autoCfgBakToRomteSFTP",
-  {
-    text: "irule",
-    icon: "f5",
-    prefix: "irule/",
-    collapsible: true,
-    children:[
-      "",
-      "irule_tuxedo",
-      "irule_jsessionid",
-      "irule_xff",
-    ],
-  },
-]);
+export default defineNoteConfig({
+  dir: '/network/f5',
+  link: '/network/f5/',
+  sidebar: [
+    "",
+    "Http头部HOST为空Nginx返回400错误",
+    "f5限制部分源IP访问VS",
+    "autoCfgBakToRomteSFTP",
+    {
+      text: "irule",
+      icon: "f5",
+      prefix: "irule/",
+      collapsed: true,
+      items:[
+        "",
+        "irule_tuxedo",
+        "irule_jsessionid",
+        "irule_xff",
+      ],
+    },
+]
+});

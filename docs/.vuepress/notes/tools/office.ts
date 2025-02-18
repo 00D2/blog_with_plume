@@ -1,18 +1,21 @@
-import { arraySidebar } from "vuepress-theme-hope";
+import { defineNoteConfig } from 'vuepress-theme-plume'
 
-export const office = arraySidebar([
-  "",
-  "onedrive",
-  {
-    text: "Excel",
-    icon: "office-excel",
-    prefix: "Excel/",
-    collapsible: true,
-    children:[
-      "",
-      "ip",
-    ],
-  },
-
+export default defineNoteConfig({
+  dir: 'office',
+  link: '/tools/office/',
+  sidebar: [
+    "",
+    "onedrive",
+    {
+      text: "Excel",
+      icon: "arcticons:microsoft-office",
+      prefix: "Excel/",
+      collapsed: true,
+      items:[
+        "",
+        "ip",
+      ],
+    },
+]
   
-]);
+});

@@ -1,8 +1,12 @@
-import { arraySidebar } from "vuepress-theme-hope";
+import { defineNoteConfig } from 'vuepress-theme-plume'
 
-export const dns = arraySidebar([
-  "",
-  "浏览器DNS缓存",
-  "multiDnsServer",
-  "ecs",
-]);
+export default defineNoteConfig({
+  dir: '/os/dns',
+  link: '/os/dns',
+  sidebar: [
+    "",
+    "浏览器DNS缓存",
+    "multiDnsServer",
+    "ecs",
+  ]
+});

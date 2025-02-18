@@ -1,52 +1,56 @@
-import { arraySidebar } from "vuepress-theme-hope";
+import { defineNoteConfig } from 'vuepress-theme-plume'
 
-export const linux = arraySidebar([
-  "",
-  "Shell命令",
-  "resetRootPasswd_RHEL",
-  "ssh",
-  {
-    text: "文件管理",
-    icon: "linux",
-    //link: "rhel8/",
-    //prefix: "rhel8/",
-    collapsible: true,
-    children: [
-    "filePermissions",
-    "fileTypes",
-    "archive",
-  ]},
-  {
-    text: "软件管理",
-    icon: "software",
-    //link: "rhel8/",
-    //prefix: "rhel8/",
-    collapsible: true,
-    children: [
-      "YUM",
-      "DNF",
-  ]},
-  {
-    text: "Ubuntu",
-    icon: "ubuntu",
-    link: "ubuntu/",
-    prefix: "ubuntu/",
-    collapsible: true,
-    children: [
-      "",
-      "aptSource",
-      "modifyNetwork",
-    ],
-  },
-  {
-    text: "Debian",
-    icon: "debian",
-    link: "debian/",
-    prefix: "debian/",
-    collapsible: true,
-    children: [
-      "",
-      "apt_viaProxy",
-    ],
-  }
-]);
+export default defineNoteConfig({
+  text: '操作系统',
+  dir: '/os/linux',
+  link: '/os/linux',
+  sidebar: [
+    {
+      prefix: '/os/linux',
+      text: 'Linux',
+      items: [
+        "Shell命令",
+        "resetRootPasswd_RHEL",
+        "ssh",
+        {
+          text: '文件权限',
+          icon: 'linux',
+          collapsed: true,
+          items: [
+            "filePermissions",
+            "fileTypes",
+            "archive",
+          ]
+        },
+        {
+          text: '文件权限',
+          icon: 'linux',
+          collapsed: true,
+          items: [
+            "YUM",
+            "DNF",
+          ]
+        },
+        {
+          text: 'Ubuntu',
+          icon: 'ubuntu',
+          collapsed: true,
+          dir: 'ubuntu',
+          items: [
+            "aptSource",
+            "modifyNetwork",
+          ]
+        },
+        {
+          text: 'Debian',
+          icon: 'logos:debian',
+          dir: 'debian',
+          collapsed: true,
+          items: [
+            "apt_viaProxy",
+          ]
+        },
+      ],
+    },
+  ]
+})

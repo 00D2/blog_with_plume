@@ -1,6 +1,10 @@
-import { arraySidebar } from "vuepress-theme-hope";
+import { defineNoteConfig } from 'vuepress-theme-plume'
 
-export const network_other = arraySidebar([
-  "",
-  "opticalFiber",
-]);
+export default defineNoteConfig({
+  dir: '/network/other',
+  link: '/network/other/',
+  sidebar: [
+    "",
+    "opticalFiber",
+  ]
+});

@@ -1,5 +1,7 @@
-import { arraySidebar } from "vuepress-theme-hope";
+import { defineNoteConfig } from 'vuepress-theme-plume'
 
-export const blog = arraySidebar([
-  "",
-]);
+export default defineNoteConfig({
+  dir: '',
+  link: '/blog',
+  sidebar: 'auto',
+});
