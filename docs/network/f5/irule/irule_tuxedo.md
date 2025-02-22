@@ -1,7 +1,7 @@
 ---
 icon: f5
 title: Tuxedo中间件WSL通过f5 irules进行负载
-author: 小苹果儿
+author: 白色犄角
 date: 2022-08-26
 category:
   - 网络

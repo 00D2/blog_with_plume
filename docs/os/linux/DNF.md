@@ -1,6 +1,6 @@
 ---
 title: DNF软件包管理器
-author: 小苹果儿
+author: 白色犄角
 date: 2022-05-14
 category:
   - 软件包管理

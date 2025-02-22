@@ -1,6 +1,6 @@
 ---
 icon: debian
-author: 小苹果儿
+author: 白色犄角
 title: Ubuntu更改镜像源
 date: 2022-07-15
 category:

@@ -2,7 +2,7 @@
 index: false
 icon: office-excel
 title: Excel使用技巧
-author: 小苹果儿
+author: 白色犄角
 date: 2022-12-11
 category:
   - 工具

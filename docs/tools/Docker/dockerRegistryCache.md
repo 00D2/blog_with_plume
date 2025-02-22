@@ -1,7 +1,7 @@
 ---
 icon: docker
 title: 使用registry配置dockerhub缓存
-author: 小苹果儿
+author: 白色犄角
 date: 2024-11-04
 category:
   - Docker

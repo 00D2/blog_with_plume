@@ -1,6 +1,6 @@
 ---
 icon: note
-author: 小苹果儿
+author: 白色犄角
 title: 网站成长记录
 date: 2022-06-06
 ---

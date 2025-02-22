@@ -1,7 +1,7 @@
 ---
 index: false
 icon: linux
-author: 小苹果儿
+author: 白色犄角
 title: Linux
 date: 2022-05-04
 category:

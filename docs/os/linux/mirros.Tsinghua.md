@@ -1,6 +1,6 @@
 ---
 icon: iso
-author: 小苹果儿
+author: 白色犄角
 title: 清华大学开源软件镜像站
 date: 2022-07-15
 category:

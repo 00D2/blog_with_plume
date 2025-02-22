@@ -26,4 +26,12 @@ export default defineThemeConfig({
     { icon: 'github', link: '/' },
   ],
 
+  // 完全禁用所有自动生成
+  // autoFrontmatter: false,
+  autoFrontmatter: {
+    permalink: false, // 是否生成永久链接
+    createTime: false, // 是否生成创建时间
+    title: false, // 是否生成标题
+  }
+  
 })

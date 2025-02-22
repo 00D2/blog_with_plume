@@ -1,6 +1,6 @@
 ---
 icon: software
-author: 小苹果儿
+author: 白色犄角
 title: 生产力软件
 date: 2024-02-20
 category:

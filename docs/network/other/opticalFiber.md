@@ -1,7 +1,7 @@
 ---
 icon: fiber
 title: 光纤
-author: 小苹果儿
+author: 白色犄角
 date: 2022-08-16
 category:
   - 网络

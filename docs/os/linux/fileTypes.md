@@ -1,6 +1,6 @@
 ---
 icon: shell
-author: 小苹果儿
+author: 白色犄角
 title: Linux文件类型
 date: 2022-06-05
 category:

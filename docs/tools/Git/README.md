@@ -2,7 +2,7 @@
 index: true
 icon: github
 title: Git
-author: 小苹果儿
+author: 白色犄角
 date: 2022-05-14
 ---
 

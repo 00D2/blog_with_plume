@@ -1,7 +1,7 @@
 ---
 icon: blog
 title: 强大的博客们
-author: 小苹果儿
+author: 白色犄角
 date: 2022-05-04
 category:
   - 博客

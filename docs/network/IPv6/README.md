@@ -1,7 +1,7 @@
 ---
 index: false
 icon: other
-author: 小苹果儿
+author: 白色犄角
 title: IPv6
 date: 2022-08-27
 category:

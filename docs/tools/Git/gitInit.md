@@ -1,6 +1,6 @@
 ---
 icon: git
-author: 小苹果儿
+author: 白色犄角
 title: git安装及初始化
 date: 2024-03-19
 category:

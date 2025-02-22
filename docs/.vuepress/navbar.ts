@@ -54,6 +54,11 @@ export const navbar = defineNavbarConfig([
     icon: "tools",
     items:[
       {
+        text: "AI",
+        icon: "ai",
+        link: "/tools/AI/"
+      },
+      {
         text: "Office",
         icon: "office",
         link: "/tools/Office/"
