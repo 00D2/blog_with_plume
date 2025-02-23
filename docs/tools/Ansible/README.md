@@ -2,7 +2,7 @@
 index: true
 icon: ansible
 title: Ansible
-author: 白色犄角
+author: 犄角套袜子
 date: 2022-06-05
 ---
 

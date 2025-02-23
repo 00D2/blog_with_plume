@@ -1,6 +1,6 @@
 ---
 icon: shell
-author: 白色犄角
+author: 犄角套袜子
 title: 一些批量重命名的脚本
 date: 2022-06-06
 category:

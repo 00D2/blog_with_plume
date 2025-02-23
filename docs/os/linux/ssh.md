@@ -1,6 +1,6 @@
 ---
 icon: linux
-author: 白色犄角
+author: 犄角套袜子
 title: SSH及SFTP参数及使用
 date: 2022-08-22
 category:

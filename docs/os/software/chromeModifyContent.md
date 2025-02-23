@@ -1,6 +1,6 @@
 ---
 icon: chrome
-author: 白色犄角
+author: 犄角套袜子
 date: 2024-09-29
 category:
   - 浏览器

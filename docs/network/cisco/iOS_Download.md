@@ -1,6 +1,6 @@
 ---
 icon: cisco
-author: 白色犄角
+author: 犄角套袜子
 title: Cisco iOS下载网站
 date: 2023-01-05
 category:

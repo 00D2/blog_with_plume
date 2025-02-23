@@ -1,6 +1,6 @@
 ---
 icon: shell
-author: 白色犄角
+author: 犄角套袜子
 title: 文本编辑
 date: 2022-05-25
 category:

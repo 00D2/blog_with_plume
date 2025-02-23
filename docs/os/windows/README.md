@@ -1,6 +1,6 @@
 ---
 icon: windows
-author: 白色犄角
+author: 犄角套袜子
 title: Windows
 date: 2022-05-04
 category:

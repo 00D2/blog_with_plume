@@ -1,7 +1,7 @@
 ---
 icon: docker
 title: 好玩又强大的Docker
-author: 白色犄角
+author: 犄角套袜子
 date: 2022-06-10
 category:
   - Docker

@@ -1,6 +1,6 @@
 ---
 icon: software
-author: 白色犄角
+author: 犄角套袜子
 title: 生产力软件
 date: 2024-02-20
 category:

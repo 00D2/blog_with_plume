@@ -1,7 +1,7 @@
 ---
 icon: f5
 title: 通过shell脚本将f5配置备份至远端SFTP服务器
-author: 白色犄角
+author: 犄角套袜子
 date: 2022-09-09
 category:
   - 网络

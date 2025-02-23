@@ -1,7 +1,7 @@
 ---
 index: false
 icon: OS
-author: 白色犄角
+author: 犄角套袜子
 title: 操作系统
 date: 2022-05-04
 category:

@@ -1,7 +1,7 @@
 ---
 icon: f5
 title: f5限制部分源IP访问VS业务
-author: 白色犄角
+author: 犄角套袜子
 date: 2022-06-09
 category:
   - 网络

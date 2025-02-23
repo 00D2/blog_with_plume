@@ -2,7 +2,7 @@
 index: true
 icon: office-excel
 title: 通过Excel函数整理IP地址信息
-author: 白色犄角
+author: 犄角套袜子
 date: 2022-12-09
 category:
   - Office

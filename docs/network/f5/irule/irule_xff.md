@@ -1,7 +1,7 @@
 ---
 icon: f5
 title: 基于XFF的地址进行会话保持
-author: 白色犄角
+author: 犄角套袜子
 date: 2024-11-03
 category:
   - 网络

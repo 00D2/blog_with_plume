@@ -1,6 +1,6 @@
 ---
 title: YUM软件包管理器
-author: 白色犄角
+author: 犄角套袜子
 date: 2022-06-06
 category:
   - 软件包管理
