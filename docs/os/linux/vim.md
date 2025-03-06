@@ -1,6 +1,6 @@
 ---
 icon: shell
-author: 犄角套袜子
+author: 犄角蛙
 title: 文本编辑
 date: 2022-05-25
 category:

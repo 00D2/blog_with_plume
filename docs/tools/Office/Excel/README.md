@@ -2,7 +2,7 @@
 index: false
 icon: office-excel
 title: Excel使用技巧
-author: 犄角套袜子
+author: 犄角蛙
 date: 2022-12-11
 category:
   - 工具

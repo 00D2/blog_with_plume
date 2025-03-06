@@ -1,6 +1,6 @@
 ---
 icon: shell
-author: 犄角套袜子
+author: 犄角蛙
 title: Linux接口查看
 date: 2022-06-06
 category:

@@ -1,6 +1,6 @@
 ---
 icon: linux
-author: 犄角套袜子
+author: 犄角蛙
 title: RHEL8重置root密码
 date: 2022-05-14
 category:

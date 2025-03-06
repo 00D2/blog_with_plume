@@ -2,7 +2,7 @@
 index: true
 icon: dns
 title: EDNS Client Subnet
-author: 犄角套袜子
+author: 犄角蛙
 date: 2022-07-27
 category:
   - DNS

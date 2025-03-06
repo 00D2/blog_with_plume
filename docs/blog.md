@@ -1,12 +1,9 @@
 ---
 icon: blog
 title: 强大的博客们
-author: 犄角套袜子
-date: 2022-05-04
-category:
-  - 博客
-  - 工具
-tag:
+author: 犄角蛙
+createTime: 2022-05-04
+tags:
   - 博客
   - 工具
 ---

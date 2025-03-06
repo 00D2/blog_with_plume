@@ -1,7 +1,7 @@
 ---
 index: false
 icon: linux
-author: 犄角套袜子
+author: 犄角蛙
 title: Linux
 date: 2022-05-04
 category:

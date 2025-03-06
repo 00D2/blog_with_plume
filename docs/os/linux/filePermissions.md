@@ -1,6 +1,6 @@
 ---
 icon: shell
-author: 犄角套袜子
+author: 犄角蛙
 title: Linux文件权限
 date: 2022-06-05
 category:

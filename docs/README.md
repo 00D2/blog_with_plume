@@ -11,7 +11,5 @@ config:
       name: 自由与我，遥不可及
       tagline:
       text:
-title: README
-createTime: 2024/10/19 23:01:52
-permalink: /blog/c2dhqwmb/
+title: 愿你如愿
 ---

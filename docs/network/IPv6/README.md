@@ -1,7 +1,7 @@
 ---
 index: false
 icon: other
-author: 犄角套袜子
+author: 犄角蛙
 title: IPv6
 date: 2022-08-27
 category:

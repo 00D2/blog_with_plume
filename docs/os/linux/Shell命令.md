@@ -1,6 +1,6 @@
 ---
 icon: shell
-author: 犄角套袜子
+author: 犄角蛙
 title: Linux Shell命令
 date: 2022-05-14
 category:

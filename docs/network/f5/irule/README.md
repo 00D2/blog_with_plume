@@ -1,7 +1,7 @@
 ---
 icon: f5
 title: iRules
-author: 犄角套袜子
+author: 犄角蛙
 date: 2024-11-03
 category:
   - 网络

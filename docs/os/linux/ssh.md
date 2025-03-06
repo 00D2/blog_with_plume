@@ -1,6 +1,6 @@
 ---
 icon: linux
-author: 犄角套袜子
+author: 犄角蛙
 title: SSH及SFTP参数及使用
 date: 2022-08-22
 category:

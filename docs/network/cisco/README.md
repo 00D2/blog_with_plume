@@ -1,7 +1,7 @@
 ---
 index: false
 icon: cisco
-author: 犄角套袜子
+author: 犄角蛙
 title: 思科
 date: 2022-05-04
 category:

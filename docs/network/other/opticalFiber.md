@@ -1,7 +1,7 @@
 ---
 icon: fiber
 title: 光纤
-author: 犄角套袜子
+author: 犄角蛙
 date: 2022-08-16
 category:
   - 网络

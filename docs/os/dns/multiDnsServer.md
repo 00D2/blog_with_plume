@@ -2,7 +2,7 @@
 index: true
 icon: dns
 title: 客户端配置单个或多个DNS的行为
-author: 犄角套袜子
+author: 犄角蛙
 date: 2022-06-13
 category:
   - DNS

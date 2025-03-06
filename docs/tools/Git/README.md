@@ -2,7 +2,7 @@
 index: true
 icon: github
 title: Git
-author: 犄角套袜子
+author: 犄角蛙
 date: 2022-05-14
 ---
 

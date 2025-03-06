@@ -1,6 +1,6 @@
 ---
 icon: ubuntu
-author: 犄角套袜子
+author: 犄角蛙
 title: Ubuntu更改镜像源
 date: 2022-07-15
 category:

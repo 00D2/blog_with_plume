@@ -1,7 +1,7 @@
 ---
 icon: docker
 title: 使用acme.sh自动申请SSL证书
-author: 犄角套袜子
+author: 犄角蛙
 date: 2024-10-19
 category:
   - Docker
