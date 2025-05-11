@@ -16,16 +16,14 @@ export default defineUserConfig({
     docsRepo: 'https://github.com/00D2/blog_with_plume',
     docsDir: 'docs',
 
+    //notes: { link: '/', dir: 'notes', notes: [] }, 
+
     plugins: {
       /**
        * Shiki 代码高亮
        * @see https://theme-plume.vuejs.press/config/plugins/code-highlight/
        */
-      shiki: {
-           // 强烈建议预设代码块高亮语言，插件默认加载所有语言会产生不必要的时间开销
-        languages: ['shell', 'bash', 'yml', 'yaml', 'json'],
-      //   languages: ['shell', 'bash', 'typescript', 'javascript'],
-      },
+
 
       /**
        * markdown enhance

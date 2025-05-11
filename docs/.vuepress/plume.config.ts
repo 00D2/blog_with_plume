@@ -21,7 +21,7 @@ export default defineThemeConfig({
   },
 
   navbar,
-  notes,
+  notes, 
   social: [
     { icon: 'github', link: '/' },
   ],
@@ -30,7 +30,7 @@ export default defineThemeConfig({
   // autoFrontmatter: false,
   autoFrontmatter: {
     permalink: false, // 是否生成永久链接
-    createTime: false, // 是否生成创建时间
+    createTime: true, // 是否生成创建时间
     title: false, // 是否生成标题
   }
   

@@ -5,27 +5,34 @@ export const navbar = defineNavbarConfig([
   { 
     text: "操作系统",
     icon: "OS",
+    prefix: "/notes/os/",
     items:[
       { 
         text: "Linux",
         icon: "linux",
-        link: "/os/linux/",
+        link: "linux/",
       },
       { 
         text: "Windows",
         icon: "windows",
-        link: "/os/windows/",
+        link: "windows/",
       },
       { 
         text: "DNS",
         icon: "dns",
-        link: "/os/dns/",
+        link: "dns/",
       },
       { 
         text: "生产力软件",
         icon: "software",
-        link: "/os/software/",
+        link: "software/",
       },
+      { 
+        text: "AI",
+        icon: "software",
+        link: "AI/",
+        //activeMatch: '^/os/AI/',
+      },      
     ],
   },
   { 

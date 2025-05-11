@@ -1,8 +1,9 @@
 import { defineNoteConfig } from 'vuepress-theme-plume'
+import AI from './AI.ts'
 
 export default defineNoteConfig({
   text: '操作系统',
-  dir: '/os',
+  dir: '/notes/os',
   link: '/os/',
   sidebar: [
     '',
@@ -34,7 +35,7 @@ export default defineNoteConfig({
           collapsed: true,
           items: 'auto',
         },
-      ],
-    },    
-  ]  
+      ]
+    }
+  ]
 })
